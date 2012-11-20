@@ -29,7 +29,7 @@ e.g.
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
+
 
 
 
